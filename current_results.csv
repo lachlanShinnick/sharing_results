@@ -1,0 +1,69 @@
+report_output_folder,body_part_file_name,full_path,report_content,Findings
+0000272a-a72b-4b04-b32d-690e0c884dc3,humerus.txt,0000272a-a72b-4b04-b32d-690e0c884dc3/humerus.txt,there is a fracture involving the proximal shaft of the right humerus.  there is minimal displacement.  the humeral head is enlocated.  alignment at the elbow joint is anatomical.,There is a fracture located at the proximal shaft of the right humerus.; There is minimal displacement of fracture located at proximal shaft of right humerus; ; There is an enlocated humeral head.; There is normal alignment located at elbow joint.
+00006e81-9ca0-4d34-ba9d-40d311dbc8f2,chest.txt,00006e81-9ca0-4d34-ba9d-40d311dbc8f2/chest.txt,the cardiomediastinal contour appears normal.  the lungs and pleural spaces are clear.,There is normal cardiomediastinal contour.; There is normal lungs; There is normal pleural spaces.
+0000796e-c46f-45c3-9c54-4810be339752,chest.txt,0000796e-c46f-45c3-9c54-4810be339752/chest.txt,"nasogastric tube subdiaphragmatic, tip projected over the t12 vertebra.
+
+
+double lumen right-sided cvc tip projected over the ra.
+
+
+normal cardiothymic contour.
+
+
+the lungs are clear.
+
+
+no air leak.",There is a nasogastric tube located at sub-diaphragm; There is the tip of the tube projected over T12 vertebra.; There is a double-lumen right-sided CVC tip located at the RA.; There is normal cardiothymic contour.; There is clear lungs.; There is no air leak.
+0000796e-c46f-45c3-9c54-4810be339752,abdomen.txt,0000796e-c46f-45c3-9c54-4810be339752/abdomen.txt,"supine with horizontal shoot through.
+
+
+there is a conspicuous gas-filled and probably mildly dilated bowel loop in the left mid-abdomen, which is non-specific. this could reflect localised ileus. no convincing features of high-grade bowel obstruction.
+
+
+hepatomegaly is again noted.
+
+
+no free subdiaphragmatic gas.
+
+
+no significant air-fluid levels.",There is a gas-filled bowel loop located at the left mid-abdomen; There is a dilated bowel loop located at the left mid-abdomen.; There is no high-grade bowel obstruction.; There is hepatomegaly.; There is no free gas located at sub-diaphragm.; There is no significant air-fluid levels
+0000b753-055d-4ece-97b5-6522e3c40dd7,forearm.txt,0000b753-055d-4ece-97b5-6522e3c40dd7/forearm.txt,alignment and positioning of the radial and ulnar fractures in plaster is anatomical,There is normal alignment; There is normal positioning located at radial and ulnar fractures in plaster.
+0000b9e7-fde3-449e-afdf-6af541934165,abdomen.txt,0000b9e7-fde3-449e-afdf-6af541934165/abdomen.txt,the cardiomediastinal silhouette is normal.  there is central bronchial wall thickening and a mild peribronchial interstitial opacity extending into the upper lower zones.  the possibility of mild viral lower respiratory tract infection is raised.  there is gas and faeces throughout nondistended colon with mild faecal loading of the transverse colon.  nondistended small bowel loops are seen in the left upper quadrant.  the bowel gas pattern is within normal limits.  there are no features of obstruction.  there is no free intraperitoneal air.  the visceral outlines appear normal.,There is normal cardiomediastinal silhouette.; There is central bronchial wall thickening located at upper lower zones; There is a peribronchial interstitial opacity located at upper lower zones.; There is gas located at colon; There is feces located at colon; There is mild faecal loading located at transverse colon.; There is nondistended small bowel loops located at left upper quadrant.; There is normal bowel gas pattern.; There is no feature of obstruction.; There is no free intraperitoneal air.; There is normal visceral outlines.
+0000c0db-66bc-4e55-bca1-64e800065f36,chest.txt,0000c0db-66bc-4e55-bca1-64e800065f36/chest.txt,"cardiac size within normal limits 
+
+
+
+there is bronchial wall thickening in the right lung base.  no pulmonary collapse or consolidation.  no pleural fluid",There is bronchial wall thickening located at the right lung base; There is normal cardiac size.; There is no pulmonary collapse; There is no consolidation.; There is no pleural fluid.
+0000d3f3-540a-4bc5-9400-3b12ca382db9,chest.txt,0000d3f3-540a-4bc5-9400-3b12ca382db9/chest.txt,rotated supine projection.  cardiothymic contour appears within normal limits and heart size cannot be adequately assessed as part of the left lung is outside field of view.  nasogastric tube in-situ with distal tip in the body of stomach.  bilateral parahilar peribronchial thickening. minimal fluid tracking along right horizontal fissure.  no focal consolidation or pleural effusions seen.  no acute bony or soft tissue anomaly.,There is a normal cardiothymic contour; There is no adequate assessment of heart size due to partial view.; There is a nasogastric tube located at the body of stomach.; There is bilateral parahilar peribronchial thickening.; There is minimal fluid tracking located at right horizontal fissure.; There is no focal consolidation; There is no pleural effusion.; There is no acute bony anomaly; There is no acute soft tissue anomaly.
+0000da6d-766c-48b1-b3e4-a4af093895c6,pelvis.txt,0000da6d-766c-48b1-b3e4-a4af093895c6/pelvis.txt,"the hip joints are enlocated.  the acetabular angle measures 29 degrees on the right side and 27 degrees on the left side. the angle is slightly above the upper limits of normal for age and sex on the right side and at the upper limits of normal on the left side. the right acetabular roof also appears steeper visually on the right side compared to left, noting slight asymmetry on the view.  capital femoral ossification centres are noted bilaterally. 
+
+
+
+overall findings are suggestive of mild degree of acetabular dysplasia on the right side.  clinical correlation recommended.",There is an enlocated hip joint; ; There is an acetabular angle of 29 degrees at right side; There is an acetabular angle of 27 degrees at left side; There is an acetabular angle that is above normal located at right side; There is a normal acetabular angle located at left side; ; There is a steeper right acetabular roof compared to left; There is asymmetry at the view.; There is capital femoral ossification centres located at both sides; ; There is a mild degree of acetabular dysplasia located at the right side.
+0000f3e1-f35c-481f-ada1-bac8eda7d333,toe.txt,0000f3e1-f35c-481f-ada1-bac8eda7d333/toe.txt,there is soft tissue swelling overlying the terminal phalanx.  there is subtle bony irregularity of the medial aspect of the base of the distal phalanx in the tarsal region.  appearances raise the possibility of an undisplaced fracture here.  no other acute bony abnormality or fractures seen.,There is soft tissue swelling located at terminal phalanx.; There is a bony irregularity located at the distal phalanx; There is an irregularity located at the base of the distal phalanx; There is an irregularity located at the medial aspect.; There is no acute bony abnormality; There is no fractures.
+0000fd47-96ad-4b05-b6a0-bc36d4df2596,spine.txt,0000fd47-96ad-4b05-b6a0-bc36d4df2596/spine.txt,"films have been obtained for the chiropractic assessment of alignment. 
+
+
+
+in the cervical region the vertebral bodies are of normal height.  the disc spaces appear well preserved.  the atlantoaxial distance is unremarkable.  no bony cervical ribs. 
+
+
+
+in the lumbar region the vertebral bodies are of normal height when allowance is made for normal developmental changes.  the disc spaces appear preserved.  no distinct pars defects or abnormality of the pedicles.  sacroiliac joints appear within normal limits for age.",There is normal vertebral bodies located at cervical region.; There is normal disc spaces.; There is no abnormality at atlantoaxial distance.; There is no bony cervical ribs.; There is normal vertebral bodies at lumbar region.; There is no distinct pars defect; There is normal pedicle.; There is normal sacroiliac joints.
+00010d80-6104-4b5e-b04c-323b05dd30d6,chest.txt,00010d80-6104-4b5e-b04c-323b05dd30d6/chest.txt,there is soft tissue swelling in the right lateral chest wall.  a small gas locule persists here.  the distal tip of the intercostal drain lies in the right apex.  there is volume loss in the right lower lobe with depression of the horizontal fissure.  there is associated mild right lower lobe collapse.  the remainder of the lung fields are clear.  there is no evidence of a significant recurrent pneumothorax.,There is soft tissue swelling located at the right lateral chest wall.; There is a gas locule located at the right lateral chest wall.; There is the distal tip of the intercostal drain located at right apex.; There is volume loss located at right lower lobe; There is depression of the horizontal fissure; There is a right lower lobe collapse; There is normal lung fields.; There is no significant recurrent pneumothorax.
+00012745-bcf2-4598-a8bb-f3181dc3c807,clavicle.txt,00012745-bcf2-4598-a8bb-f3181dc3c807/clavicle.txt,"nondisplaced fracture through the junction of the mid and lateral thirds of the clavicle diaphysis, with mild inferior angulation of the lateral fracture segment.   the proximal humerus is intact. the imaged portion of the lungs is grossly unremarkable.",There is a nondisplaced fracture located at the junction of the mid and lateral thirds of the clavicle diaphysis; There is inferior angulation of the fracture segment located at the lateral third of the clavicle.; There is normal proximal humerus.; There is normal lungs
+000182c3-231d-4362-bb3c-e3f3d5cacc7b,facial bones.txt,000182c3-231d-4362-bb3c-e3f3d5cacc7b/facial bones.txt,no orbital floor fracture.  no maxillary sinus fluid level.  no nasal bone fracture.  no evidence of zygomatic arch fracture.,There is no orbital floor fracture.; There is no maxillary sinus fluid level.; There is no nasal bone fracture.; There is no zygomatic arch fracture.
+0001cc82-d5fc-4dff-a985-01875b554a67,forearm.txt,0001cc82-d5fc-4dff-a985-01875b554a67/forearm.txt,transverse fracture of the distal radial shaft is demonstrated.  there is  dorsal tilt of the distal fragment but no significant displacement.  avulsion fracture of the ulnar styloid is also noted.  wrist and elbow alignment is satisfactory.,There is a transverse fracture located at distal radial shaft.; There is a dorsal tilt located at the distal fragment; There is no displacement; There is an avulsion fracture located at the ulnar styloid.; There is normal wrist alignment; There is normal elbow alignment.
+00020aef-da8f-4db2-ab1d-f96daa13aa2e,foot.txt,00020aef-da8f-4db2-ab1d-f96daa13aa2e/foot.txt,no acute bony injury is seen.  there is anatomical alignment about the joints of the forefoot,There is no acute bony injury.; There is anatomical alignment located at the joints of the forefoot.
+00029039-f970-48f0-8675-04c0b54e36ae,fibula.txt,00029039-f970-48f0-8675-04c0b54e36ae/fibula.txt,no acute displaced fracture or dislocation is seen. no radiopaque foreign body. on the lower limb images ankle joint intact.,There is no acute displaced fracture; There is no dislocation; ; There is no radiopaque foreign body.; There is an intact ankle joint.
+00029039-f970-48f0-8675-04c0b54e36ae,tibia.txt,00029039-f970-48f0-8675-04c0b54e36ae/tibia.txt,no acute displaced fracture or dislocation is seen. no radiopaque foreign body. on the lower limb images ankle joint intact.,There is no acute displaced fracture; There is no dislocation.; There is no radiopaque foreign body.; There is normal ankle joint.
+0002ce6f-9f8b-469f-b4a7-05ac8d9b40fc,chest.txt,0002ce6f-9f8b-469f-b4a7-05ac8d9b40fc/chest.txt,"endotracheal tube is noted in size tube tip at t3/t4.  nasogastric tube in situ, tip be normal limits of the film. 
+
+
+
+cardiac silhouette are unchanged from previous.  lung fields are well-aerated.  no pleural effusion or air leak.",There is an endotracheal tube located at T3/T4.; There is a nasogastric tube located at normal limits of the film.; There is normal cardiac silhouette.; There is normal lungs.; There is no pleural effusion; There is no air leak.
+00030e8c-3b3b-447a-9496-ecd05f4dcd04,forearm.txt,00030e8c-3b3b-447a-9496-ecd05f4dcd04/forearm.txt,"there is a greenstick fracture of the junction of mid and distal thirds of the right radius. 
+
+
+
+the fracture is undisplaced but there is almost 30 degrees of volar angulation.",There is a greenstick fracture located at the junction of mid and distal thirds of the right radius.; There is a fracture located at the junction of mid and distal thirds of the right radius; There is volar angulation located at the right radius.
